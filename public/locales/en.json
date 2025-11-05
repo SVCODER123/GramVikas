@@ -1,0 +1,92 @@
+{
+  "header": {
+    "title": "GramVikas Insights",
+    "subtitle": "Empowering Rural Entrepreneurs with Data-Driven Decisions",
+    "location": "Maharashtra State",
+    "lastUpdated": "Last Updated: Today"
+  },
+  "navigation": {
+    "overview": "Overview",
+    "charts": "Interactive Charts",
+    "pricing": "Pricing Assistant",
+    "map": "Market Map",
+    "knowledge": "Knowledge Base",
+    "chatbot": "AI Advisor"
+  },
+  "chatbot": {
+    "title": "AI Market Strategy Advisor",
+    "subtitle": "Get personalized advice on crop pricing, market trends, and farming strategies",
+    "welcome": "Hello! I'm your Market Strategy Advisor. Ask me about crop pricing, market trends, or farming strategies.",
+    "inputPlaceholder": "Ask about market strategies, crops, prices, or government schemes...",
+    "send": "Send",
+    "error": "Failed to get response. Please try again.",
+    "suggestions": "Try asking about:",
+    "suggestion1": "Market prices today",
+    "suggestion2": "Best crops to grow",
+    "suggestion3": "Weather predictions",
+    "suggestion4": "Government schemes",
+    "tips": "Tips for better advice:",
+    "tip1": "Ask specific questions for better advice",
+    "tip2": "Include crop names and regions for targeted insights",
+    "tip3": "Check market data before making decisions"
+  },
+  "overview": {
+    "activeMarkets": "Active Farmers",
+    "marketTrends": "Market Insights",
+    "avgPrice": "Price Updates",
+    "trending": "Knowledge Articles",
+    "topCrops": "Top Crops in Maharashtra",
+    "highestPrice": "Highest Price",
+    "lowestPrice": "Lowest Price"
+  },
+  "charts": {
+    "title": "Market Analytics",
+    "sugarCanePrice": "Average Sugarcane Price (6 months)",
+    "cottonTrend": "Cotton Market Trend",
+    "jowarRate": "Jowar (Sorghum) Rate",
+    "priceAnalysis": "Price Analysis by Market",
+    "marketSummary": "Market Summary",
+    "currentStatus": "Current Market Status",
+    "regionalVariations": "Regional Variations",
+    "recommendations": "Recommendations"
+  },
+  "mapView": {
+    "title": "Market Map - Maharashtra",
+    "subtitle": "Regional commodity prices and crop distribution",
+    "region": "Region",
+    "market": "Market",
+    "avgMarketPrice": "Avg Market Price",
+    "topProducingRegions": "Top Producing Regions",
+    "priceComparison": "Price Comparison",
+    "regionalInsights": "Regional Insights"
+  },
+  "knowledgeBase": {
+    "title": "Knowledge Base",
+    "subtitle": "Expert insights and guides for farmers",
+    "government": "Government Schemes",
+    "bestPractices": "Best Practices",
+    "filterBy": "Filter by Category",
+    "readMore": "Read More",
+    "allCategories": "All",
+    "cultivation": "Cultivation",
+    "market": "Market",
+    "climate": "Climate",
+    "policy": "Policy",
+    "technology": "Technology"
+  },
+  "pricingAssistant": {
+    "title": "Pricing Assistant",
+    "selectCrop": "Select a Crop",
+    "priceHistory": "Price History",
+    "currentPrice": "Current Price",
+    "avgPriceThisMonth": "Average Price This Month",
+    "priceRange": "Price Range"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error loading data",
+    "noData": "No data available",
+    "search": "Search",
+    "language": "Language"
+  }
+}
